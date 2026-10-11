@@ -1,7 +1,6 @@
 # Mehrere Genauigkeiten: der kurze Lauf als Vorfilter – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-multi-fidelity-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-multi-fidelity-demo.streamlit.app/)**
 
 Siebtes und letztes Stück der **Bayessche-Optimierung-Linie** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Es setzt [bayes-opt-demo](https://github.com/sebastian-hanisch/bayes-opt-demo) und [noisy-bo-demo](https://github.com/sebastian-hanisch/noisy-bo-demo) fort und fragt, wann
